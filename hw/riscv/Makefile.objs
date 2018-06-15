@@ -11,7 +11,6 @@ obj-y += spike.o
 obj-y += virt.o
 obj-y += nexell_swallow.o
 obj-y += nexell_clint.o
-obj-y += nexell_prci.o
 obj-y += nexell_plic.o
 obj-y += nexell_uart.o
 obj-y += nexell_devtest.o
